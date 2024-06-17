@@ -16,4 +16,5 @@ CEF默认不支持
 2. 用下载得到的【cef.redist.x64.3.3239.1723】、【cef.redist.x86.3.3239.1723】两个文件夹
 替换原本项目目录中的对应文件(***工程目录下package目录中对应的文件夹***)即可
 
-[测试项目](https://files.cnblogs.com/files/ives/cefH264.zip)
+[测试项目](https://www.cnblogs.com/ives/p/cefh264.html)
+可在此业务底部测试项目链接中获取(网站存在下载鉴权,直链容易失效)
